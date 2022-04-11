@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\HomeworkClass\obj\Debug\netcoreapp3.1\HomeworkClass.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\HomeworkClass\obj\Debug\netcoreapp3.1\HomeworkClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\HomeworkClass\obj\Debug\netcoreapp3.1\HomeworkClass.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\HomeworkClass\obj\Debug\netcoreapp3.1\HomeworkClass.AssemblyInfo.cs
+C:\Users\HP\Desktop\HomeworkClass\obj\Debug\netcoreapp3.1\HomeworkClass.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\HomeworkClass\bin\Debug\netcoreapp3.1\HomeworkClass.exe
+C:\Users\HP\Desktop\HomeworkClass\bin\Debug\netcoreapp3.1\HomeworkClass.deps.json
+C:\Users\HP\Desktop\HomeworkClass\bin\Debug\netcoreapp3.1\HomeworkClass.runtimeconfig.json
+C:\Users\HP\Desktop\HomeworkClass\bin\Debug\netcoreapp3.1\HomeworkClass.runtimeconfig.dev.json
+C:\Users\HP\Desktop\HomeworkClass\bin\Debug\netcoreapp3.1\HomeworkClass.dll
+C:\Users\HP\Desktop\HomeworkClass\bin\Debug\netcoreapp3.1\HomeworkClass.pdb
+C:\Users\HP\Desktop\HomeworkClass\obj\Debug\netcoreapp3.1\HomeworkClass.dll
+C:\Users\HP\Desktop\HomeworkClass\obj\Debug\netcoreapp3.1\HomeworkClass.pdb
+C:\Users\HP\Desktop\HomeworkClass\obj\Debug\netcoreapp3.1\HomeworkClass.genruntimeconfig.cache
